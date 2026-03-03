@@ -11,9 +11,13 @@ The Blog-project Website  is built with:
             - Tailwind CSS
 
 To run 
+
+
 npm run dev
 
 or 
 cd .\naviflow-display-main\
-npm install 
+npm install
+
+
 npm run dev 
