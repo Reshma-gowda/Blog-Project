@@ -1,4 +1,4 @@
-Frontend : Reshma 
+Frontend : Reshma and Charan
 
 
 Backend : Monish and Hitha
@@ -16,6 +16,7 @@ To run
 npm run dev
 
 or 
+
 cd .\naviflow-display-main\
 npm install
 
